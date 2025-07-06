@@ -1,1 +1,9 @@
-# Justice-for-the-Disadvantaged
+# Justice for the Disadvantaged: A Study of Public Reactions on Indian Supreme Court Judgments
+(The 17th International Conference on Advances in Social Networks Analysis and Mining - ASONAM 2025)
+
+Abstract:
+The judgments of a country's apex court on socially pertinent issues often invite a wide spectrum of public reactions reflecting a range of polarities. In this paper, we examine public reactions to three landmark judgments of the Indian Supreme Court –  _Triple Talaq_ (on Islamic divorce), _Section 377_ (focused on the criminalization of homosexual activity), and _Sabarimala Temple_ (on restricting the entry of women and girls of reproductive age into a Hindu temple), on YouTube, involving disadvantaged groups such as women and sexual minorities. To our knowledge, this is the first-ever work that investigates social web discourse pivoting landmark rulings for disadvantaged groups in India. We first annotate a substantial novel dataset, partially annotated through LLM-human partnership, particularly enriched by the participation of disadvantaged groups in the annotation process. Our analyses reveal that not all verdicts receive comparable support or criticism  civic receptivity considerably varies across verdicts, with the ban on instant Triple Talaq receiving overwhelming support.
+
+[Supplemental Information](https://github.com/khorg0sh/Justice-for-the-Disadvantaged/blob/main/Public_Receptivity_Watershed_Judgements_SI_ASONAM.pdf) contains additional information regarding the experimental setup, robustness check, and more. 
+
+Follow the Google [form](https://docs.google.com/forms/d/1DMnTnHI4tXizGPXoYBm-vl0EJV1GtMk7mkjixl7b-ic/) to gain access to the dataset 😸
